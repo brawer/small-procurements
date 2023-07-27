@@ -10,7 +10,7 @@ def read_csv(filename):
 
     
 def read_ch_post():
-    for row in read_csv('ch_post_2021.csv'):
+    for row in read_csv('post_ch_2021.csv'):
         print(row)
         yield row
 
