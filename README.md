@@ -13,7 +13,7 @@ probably in the same XML format that is used for European procurement records.
 1. Add all [Swiss data sources](https://www.bkb.admin.ch/bkb/de/home/bkb/ab_50000_franken.html).
    Each of them has a different format.
 2. Publish this data in [eForms](https://docs.ted.europa.eu/home/eforms/FAQ/index.html)
-   format.
+   and [FollowTheMoney](https://followthemoney.tech/) format.
 3. Support additional countries, if there’s similar data sources elsewhere.
 
 
