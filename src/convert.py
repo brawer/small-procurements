@@ -8,6 +8,11 @@ SOURCES = {
         'Wankdorfallee 4',
         '3030', 'Bern',
         'CHE-109.030.864'),
+    'stenfo_ch': (
+        'STENFO Stilllegungsfonds für Kernanlagen',
+        'Eigerplatz 2',
+        '3007', 'Bern',
+        None),
     'wsl_ch': (
         'Eidgenössische Forschungsanstalt für Wald, Schnee und Landschaft',
         'Zürcherstrasse 111',
